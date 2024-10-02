@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahul
-- 🌱 I’m currently learning Machine Learning
+- 🌱 Learner
 - 📫 Reach me at rahulraj8984@gmail.com
 
 
